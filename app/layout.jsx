@@ -13,7 +13,7 @@ const layout = ({ children }) => {
   return (
     <AuthProvider>
       <html lang="en">
-        <body>
+        <body suppressHydrationWarning={true}>
           <Navbar />
           <main>{children}</main>
           <Footer />
