@@ -20,8 +20,11 @@
     },
     "peacock.color": "#61dafb",
     "cSpell.words": [
+        "Amenites",
         "labelledby",
+        "photoswipe",
         "tailwindcss",
+        "toastify",
         "zipcode"
     ]
 }
