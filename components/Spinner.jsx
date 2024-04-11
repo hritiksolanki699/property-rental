@@ -1,3 +1,4 @@
+'use client';
 import ClipLoader from 'react-spinners/ClipLoader';
 
 const override = {
@@ -8,7 +9,7 @@ const override = {
 const Spinner = ({ loading }) => {
   return (
     <ClipLoader
-      color='#3B82F6'
+      color='#3b82f6'
       loading={loading}
       cssOverride={override}
       size={150}
