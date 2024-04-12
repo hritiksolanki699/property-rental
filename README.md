@@ -24,7 +24,7 @@ Check out the live demo: [Property Rental Website](https://property-rental-omega
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/property-rental-website.git
+   git clone https://github.com/hritiksolanki699/property-rental.git
    ```
 
 2. Install dependencies:
